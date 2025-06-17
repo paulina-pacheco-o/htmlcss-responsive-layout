@@ -23,5 +23,8 @@
   .recipe-origin {
     display: flex;
     flex-wrap: wrap;
+    font-size: 35px;
   }
+
+
 }
