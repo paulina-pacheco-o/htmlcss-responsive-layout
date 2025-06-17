@@ -57,4 +57,14 @@
     flex-direction: column;
     gap: 10px;
   }
+
+  .recipe-card {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .recipe-video {
+    width: 70%;
+  }
+
 }
