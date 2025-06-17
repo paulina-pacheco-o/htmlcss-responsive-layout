@@ -67,4 +67,15 @@
     width: 70%;
   }
 
+  .social-networks .label {
+    display: block;
+  }
+
+  .btn {
+    width: 150px;
+    display: flex;
+    justify-content: center;
+    gap: 5px;
+  }
+
 }
