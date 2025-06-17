@@ -32,5 +32,9 @@
     gap: 35px;
   }
 
+  .btn {
+    width: 120px;
+  }
+
 
 }
