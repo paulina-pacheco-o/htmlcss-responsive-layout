@@ -13,4 +13,15 @@
   main {
     padding: 50px;
   }
+
+  .recipe-origin {
+    display: block;
+    margin-left: 5px;
+  }
+
+  .recipe-name,
+  .recipe-origin {
+    display: flex;
+    flex-wrap: wrap;
+  }
 }
