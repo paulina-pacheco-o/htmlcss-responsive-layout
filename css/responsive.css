@@ -23,7 +23,13 @@
   .recipe-origin {
     display: flex;
     flex-wrap: wrap;
-    font-size: 35px;
+    font-size: 30px;
+  }
+
+  .quick-notes ul {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 35px;
   }
 
 
